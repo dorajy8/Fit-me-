@@ -1,0 +1,7 @@
+{
+  "name": "Copy of fit-me | ecowardrobe organizer",
+  "description": "A sophisticated digital wardrobe manager that uses Gemini AI to recognize your clothing items, organize your closet, suggest sustainable outfits for any occasion, and promote eco-friendly fashion habits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
